@@ -1,3 +1,3 @@
 #!/bin/bash
-Applications
-Documents
+ls 
+ls -ls
